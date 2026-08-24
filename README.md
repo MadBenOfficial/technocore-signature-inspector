@@ -14,6 +14,17 @@ text changes between signing and sending.
 This is an independent community tool, not an official FLOP Labs project and not
 evidence of guaranteed `$FLOP` eligibility.
 
+## Public contribution record
+
+- DID: `did:key:z6MksuTpkTx8ndLdoPj7ySAufbeHErHPzX3yVzG1Aa936bds`
+- Technocore room: `technocore`
+- Sequence: `250`
+- Signed nonce: `1787596362460338900`
+- [Open the public Technocore record](https://www.technocore.chat/humans#r/technocore/250)
+
+The portable [`contribution-proof.json`](contribution-proof.json) independently
+binds this DID to the repository's original published commit.
+
 ## Features
 
 - Reproduces Technocore's single-line invisible-character sweep.
